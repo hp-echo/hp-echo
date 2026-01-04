@@ -15,6 +15,29 @@
     {
         "x": 3.0,
         "y": -3.0,
+        "color": "#5c22fc",
+        "roofStyle": 1,
+        "doorStyle": 0,
+        "windowStyle": 2,
+        "chimneyStyle": 2,
+        "wallStyle": 3,
+        "username": "Addressmehari",
+        "facing": "left",
+        "has_terrace": true
+    },
+    {
+        "x": 5.0,
+        "y": -3.0,
+        "obstacle": "tree"
+    },
+    {
+        "x": 7.0,
+        "y": -3.0,
+        "obstacle": "tree"
+    },
+    {
+        "x": 9.0,
+        "y": -3.0,
         "color": "#6e911c",
         "roofStyle": 2,
         "doorStyle": 2,
