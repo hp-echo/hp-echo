@@ -1,6 +1,6 @@
 # 🏘️ GitVille - GitHub Stargazer City
 
-[![GitVille](https://github.com/Addressmehari/GitVille/blob/1c65552e6d2a8ecfb322d0ad1dfb0d6a44411521/city_snapshot.svg)
+[![GitVille](https://github.com/hp-echo/hp-echo/blob/main/city_snapshot.svg)]
 
 > **⭐️ Star this repository to get your own house in the city!**
 >
