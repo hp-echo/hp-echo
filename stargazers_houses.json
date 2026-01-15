@@ -13,10 +13,20 @@
         "has_terrace": false,
         "abandoned": false,
         "joined_at": "2026-01-14T08:18:13.596262",
-        "last_seen": "2026-01-14T08:30:55.687528"
+        "last_seen": "2026-01-15T03:58:38.196318"
     },
     {
         "x": 3.0,
+        "y": -3.0,
+        "obstacle": "tree"
+    },
+    {
+        "x": 5.0,
+        "y": -3.0,
+        "obstacle": "tree"
+    },
+    {
+        "x": 7.0,
         "y": -3.0,
         "color": "#5c22fc",
         "roofStyle": 1,
@@ -26,9 +36,9 @@
         "wallStyle": 3,
         "username": "Addressmehari",
         "facing": "left",
-        "has_terrace": true,
-        "abandoned": true,
-        "joined_at": "2026-01-14T08:18:13.596262",
-        "last_seen": "2026-01-14T08:18:13.596262"
+        "has_terrace": false,
+        "abandoned": false,
+        "joined_at": "2026-01-15T03:58:38.196318",
+        "last_seen": "2026-01-15T03:58:38.196318"
     }
 ]
