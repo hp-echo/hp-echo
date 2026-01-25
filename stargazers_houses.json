@@ -10,10 +10,10 @@
         "wallStyle": 1,
         "username": "hp-echo",
         "facing": "down",
-        "has_terrace": false,
+        "has_terrace": true,
         "abandoned": false,
         "joined_at": "2026-01-14T08:18:13.596262",
-        "last_seen": "2026-01-24T03:52:15.025746"
+        "last_seen": "2026-01-25T04:21:04.449898"
     },
     {
         "x": 3.0,
@@ -26,9 +26,9 @@
         "wallStyle": 3,
         "username": "Addressmehari",
         "facing": "left",
-        "has_terrace": false,
+        "has_terrace": true,
         "abandoned": false,
         "joined_at": "2026-01-15T03:58:38.196318",
-        "last_seen": "2026-01-24T03:52:15.025746"
+        "last_seen": "2026-01-25T04:21:04.449898"
     }
 ]
