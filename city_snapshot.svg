@@ -88,31 +88,31 @@
         </style>
     </defs>
     <g class="world-sway"><path d="M 400.00 -425.00 L 450.00 -400.00 L 400.00 -375.00 L 350.00 -400.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -0.15868335043431392s">
+<g class="grass-anim" style="animation-delay: -0.3790792151553477s">
 <circle cx="396.39" cy="-397.28" r="2" fill="#c7ceea" />
 </g>
 <path d="M 450.00 -400.00 L 500.00 -375.00 L 450.00 -350.00 L 400.00 -375.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 500.00 -375.00 L 550.00 -350.00 L 500.00 -325.00 L 450.00 -350.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 550.00 -350.00 L 600.00 -325.00 L 550.00 -300.00 L 500.00 -325.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.6311223745798018s">
+<g class="grass-anim" style="animation-delay: -0.4276060615020154s">
 <path d="M 499.54 -350.87 L 496.54 -354.87 M 499.54 -350.87 L 501.54 -355.87" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 600.00 -325.00 L 650.00 -300.00 L 600.00 -275.00 L 550.00 -300.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 650.00 -300.00 L 700.00 -275.00 L 650.00 -250.00 L 600.00 -275.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 700.00 -275.00 L 750.00 -250.00 L 700.00 -225.00 L 650.00 -250.00 Z" style="fill:#a5d6a7; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.450260517323426s">
+<g class="grass-anim" style="animation-delay: -1.8570959377510055s">
 <path d="M 642.93 -265.92 L 639.93 -269.92 M 642.93 -265.92 L 644.93 -270.92" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 750.00 -250.00 L 800.00 -225.00 L 750.00 -200.00 L 700.00 -225.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 800.00 -225.00 L 850.00 -200.00 L 800.00 -175.00 L 750.00 -200.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 850.00 -200.00 L 900.00 -175.00 L 850.00 -150.00 L 800.00 -175.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.4365005183125263s">
+<g class="grass-anim" style="animation-delay: -0.965320736640344s">
 <path d="M 790.96 -201.87 L 787.96 -205.87 M 790.96 -201.87 L 792.96 -206.87" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 900.00 -175.00 L 950.00 -150.00 L 900.00 -125.00 L 850.00 -150.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 950.00 -150.00 L 1000.00 -125.00 L 950.00 -100.00 L 900.00 -125.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 1000.00 -125.00 L 1050.00 -100.00 L 1000.00 -75.00 L 950.00 -100.00 Z" style="fill:#a5d6a7; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.579322520971457s">
+<g class="grass-anim" style="animation-delay: -0.9808597375757167s">
 </g>
 <path d="M 1050.00 -100.00 L 1100.00 -75.00 L 1050.00 -50.00 L 1000.00 -75.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 1100.00 -75.00 L 1150.00 -50.00 L 1100.00 -25.00 L 1050.00 -50.00 Z" style="fill:#81c784; stroke:none;" />
@@ -121,16 +121,16 @@
 <path d="M 350.00 -400.00 L 400.00 -375.00 L 350.00 -350.00 L 300.00 -375.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 400.00 -375.00 L 450.00 -350.00 L 400.00 -325.00 L 350.00 -350.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 450.00 -350.00 L 500.00 -325.00 L 450.00 -300.00 L 400.00 -325.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.3130633439078752s">
+<g class="grass-anim" style="animation-delay: -0.5962587095031195s">
 <path d="M 394.64 -348.14 L 391.64 -352.14 M 394.64 -348.14 L 396.64 -353.14" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 500.00 -325.00 L 550.00 -300.00 L 500.00 -275.00 L 450.00 -300.00 Z" style="fill:#a5d6a7; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.0958516434244072s">
+<g class="grass-anim" style="animation-delay: -1.9790009973258424s">
 <path d="M 450.93 -316.98 L 447.93 -320.98 M 450.93 -316.98 L 452.93 -321.98" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 550.00 -300.00 L 600.00 -275.00 L 550.00 -250.00 L 500.00 -275.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 600.00 -275.00 L 650.00 -250.00 L 600.00 -225.00 L 550.00 -250.00 Z" style="fill:#a5d6a7; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.8011726763594704s">
+<g class="grass-anim" style="animation-delay: -0.07126682252713268s">
 <path d="M 590.02 -252.12 L 587.02 -256.12 M 590.02 -252.12 L 592.02 -257.12" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 650.00 -250.00 L 700.00 -225.00 L 650.00 -200.00 L 600.00 -225.00 Z" style="fill:#81c784; stroke:none;" />
@@ -144,11 +144,11 @@
 <path d="M 1050.00 -50.00 L 1100.00 -25.00 L 1050.00 0.00 L 1000.00 -25.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 1100.00 -25.00 L 1150.00 0.00 L 1100.00 25.00 L 1050.00 0.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 1150.00 0.00 L 1200.00 25.00 L 1150.00 50.00 L 1100.00 25.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.681401906477141s">
+<g class="grass-anim" style="animation-delay: -1.6728222689701298s">
 <path d="M 1094.82 3.81 L 1091.82 -0.19 M 1094.82 3.81 L 1096.82 -1.19" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 300.00 -375.00 L 350.00 -350.00 L 300.00 -325.00 L 250.00 -350.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -0.13386824781807594s">
+<g class="grass-anim" style="animation-delay: -0.49781009621843353s">
 <path d="M 282.34 -341.37 L 279.34 -345.37 M 282.34 -341.37 L 284.34 -346.37" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 350.00 -350.00 L 400.00 -325.00 L 350.00 -300.00 L 300.00 -325.00 Z" style="fill:#81c784; stroke:none;" />
@@ -176,6 +176,7 @@
 <path d="M 560.00 -205.00 L 550.00 -210.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 540.00 -245.00 L 550.00 -240.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 510.00 -230.00 L 520.00 -225.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
+<circle cx="550" cy="-225" r="4" fill="#F44336" stroke="white" stroke-width="1" class="citizen" style="animation-delay: -0.6241883467649905s" />
 <path d="M 600.00 -225.00 L 650.00 -200.00 L 600.00 -175.00 L 550.00 -200.00 Z" style="fill:#bdc3c7; stroke:none;" />
 <path d="M 600.00 -215.00 L 630.00 -200.00 L 600.00 -185.00 L 570.00 -200.00" style="fill:#34495e; stroke:none;" />
 <path d="M 630.00 -200.00 L 600.00 -185.00 L 610.00 -180.00 L 640.00 -195.00" style="fill:#34495e; stroke:none;" />
@@ -253,6 +254,7 @@
 <path d="M 910.00 -30.00 L 900.00 -35.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 890.00 -70.00 L 900.00 -65.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 860.00 -55.00 L 870.00 -50.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
+<circle cx="900" cy="-50" r="4" fill="#9C27B0" stroke="white" stroke-width="1" class="citizen" style="animation-delay: -0.9490122275961153s" />
 <path d="M 950.00 -50.00 L 1000.00 -25.00 L 950.00 0.00 L 900.00 -25.00 Z" style="fill:#bdc3c7; stroke:none;" />
 <path d="M 950.00 -40.00 L 980.00 -25.00 L 950.00 -10.00 L 920.00 -25.00" style="fill:#34495e; stroke:none;" />
 <path d="M 980.00 -25.00 L 950.00 -10.00 L 960.00 -5.00 L 990.00 -20.00" style="fill:#34495e; stroke:none;" />
@@ -264,7 +266,7 @@
 <path d="M 960.00 -5.00 L 950.00 -10.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 940.00 -45.00 L 950.00 -40.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 910.00 -30.00 L 920.00 -25.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
-<circle cx="950" cy="-25" r="4" fill="#9C27B0" stroke="white" stroke-width="1" class="citizen" style="animation-delay: -0.680289970174967s" />
+<circle cx="950" cy="-25" r="4" fill="#9C27B0" stroke="white" stroke-width="1" class="citizen" style="animation-delay: -0.081394335985993s" />
 <path d="M 1000.00 -25.00 L 1050.00 0.00 L 1000.00 25.00 L 950.00 0.00 Z" style="fill:#bdc3c7; stroke:none;" />
 <path d="M 1000.00 -15.00 L 1030.00 0.00 L 1000.00 15.00 L 970.00 0.00" style="fill:#34495e; stroke:none;" />
 <path d="M 970.00 0.00 L 1000.00 15.00 L 990.00 20.00 L 960.00 5.00" style="fill:#34495e; stroke:none;" />
@@ -279,13 +281,13 @@
 <path d="M 1050.00 0.00 L 1100.00 25.00 L 1050.00 50.00 L 1000.00 25.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 1100.00 25.00 L 1150.00 50.00 L 1100.00 75.00 L 1050.00 50.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 250.00 -350.00 L 300.00 -325.00 L 250.00 -300.00 L 200.00 -325.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.256108730485094s">
+<g class="grass-anim" style="animation-delay: -1.9197974644597005s">
 <path d="M 215.37 -337.79 L 212.37 -341.79 M 215.37 -337.79 L 217.37 -342.79" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 300.00 -325.00 L 350.00 -300.00 L 300.00 -275.00 L 250.00 -300.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 350.00 -300.00 L 400.00 -275.00 L 350.00 -250.00 L 300.00 -275.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 400.00 -275.00 L 450.00 -250.00 L 400.00 -225.00 L 350.00 -250.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -0.6636991852236491s">
+<g class="grass-anim" style="animation-delay: -0.26225903113871807s">
 <path d="M 359.50 -271.68 L 356.50 -275.68 M 359.50 -271.68 L 361.50 -276.68" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 450.00 -250.00 L 500.00 -225.00 L 450.00 -200.00 L 400.00 -225.00 Z" style="fill:#bdc3c7; stroke:none;" />
@@ -302,11 +304,11 @@
 <path d="M 500.00 -225.00 L 550.00 -200.00 L 500.00 -175.00 L 450.00 -200.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 550.00 -200.00 L 600.00 -175.00 L 550.00 -150.00 L 500.00 -175.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 600.00 -175.00 L 650.00 -150.00 L 600.00 -125.00 L 550.00 -150.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.3051004049664439s">
+<g class="grass-anim" style="animation-delay: -0.6805694845597992s">
 <path d="M 608.45 -142.86 L 605.45 -146.86 M 608.45 -142.86 L 610.45 -147.86" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 650.00 -150.00 L 700.00 -125.00 L 650.00 -100.00 L 600.00 -125.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.7278657709617322s">
+<g class="grass-anim" style="animation-delay: -0.37534126470337936s">
 <circle cx="654.53" cy="-136.55" r="2" fill="#ffb7b2" />
 </g>
 <path d="M 700.00 -125.00 L 750.00 -100.00 L 700.00 -75.00 L 650.00 -100.00 Z" style="fill:#81c784; stroke:none;" />
@@ -314,7 +316,7 @@
 <path d="M 800.00 -75.00 L 850.00 -50.00 L 800.00 -25.00 L 750.00 -50.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 850.00 -50.00 L 900.00 -25.00 L 850.00 0.00 L 800.00 -25.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 900.00 -25.00 L 950.00 0.00 L 900.00 25.00 L 850.00 0.00 Z" style="fill:#a5d6a7; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -0.7456283917119673s">
+<g class="grass-anim" style="animation-delay: -0.35331232303970506s">
 <path d="M 847.91 -18.93 L 844.91 -22.93 M 847.91 -18.93 L 849.91 -23.93" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 950.00 0.00 L 1000.00 25.00 L 950.00 50.00 L 900.00 25.00 Z" style="fill:#bdc3c7; stroke:none;" />
@@ -331,15 +333,15 @@
 <path d="M 1000.00 25.00 L 1050.00 50.00 L 1000.00 75.00 L 950.00 50.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 1050.00 50.00 L 1100.00 75.00 L 1050.00 100.00 L 1000.00 75.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 200.00 -325.00 L 250.00 -300.00 L 200.00 -275.00 L 150.00 -300.00 Z" style="fill:#a5d6a7; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.6937164843003196s">
+<g class="grass-anim" style="animation-delay: -0.11350789952601303s">
 <circle cx="200.20" cy="-302.77" r="2" fill="#ffb7b2" />
 </g>
 <path d="M 250.00 -300.00 L 300.00 -275.00 L 250.00 -250.00 L 200.00 -275.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.9079042602959775s">
+<g class="grass-anim" style="animation-delay: -0.6945259187347794s">
 <circle cx="239.74" cy="-282.95" r="2" fill="#ffdac1" />
 </g>
 <path d="M 300.00 -275.00 L 350.00 -250.00 L 300.00 -225.00 L 250.00 -250.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.7675215739425956s">
+<g class="grass-anim" style="animation-delay: -1.8719317260912862s">
 </g>
 <path d="M 350.00 -250.00 L 400.00 -225.00 L 350.00 -200.00 L 300.00 -225.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 400.00 -225.00 L 450.00 -200.00 L 400.00 -175.00 L 350.00 -200.00 Z" style="fill:#bdc3c7; stroke:none;" />
@@ -353,15 +355,16 @@
 <path d="M 390.00 -180.00 L 400.00 -185.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 430.00 -200.00 L 400.00 -185.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 400.00 -215.00 L 370.00 -200.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
+<circle cx="400" cy="-200" r="4" fill="#E91E63" stroke="white" stroke-width="1" class="citizen" style="animation-delay: -0.9499416140703227s" />
 <path d="M 450.00 -200.00 L 500.00 -175.00 L 450.00 -150.00 L 400.00 -175.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 500.00 -175.00 L 550.00 -150.00 L 500.00 -125.00 L 450.00 -150.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 550.00 -150.00 L 600.00 -125.00 L 550.00 -100.00 L 500.00 -125.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 600.00 -125.00 L 650.00 -100.00 L 600.00 -75.00 L 550.00 -100.00 Z" style="fill:#a5d6a7; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -0.7982609094252346s">
+<g class="grass-anim" style="animation-delay: -1.9277632735439418s">
 <path d="M 571.23 -116.25 L 568.23 -120.25 M 571.23 -116.25 L 573.23 -121.25" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 650.00 -100.00 L 700.00 -75.00 L 650.00 -50.00 L 600.00 -75.00 Z" style="fill:#a5d6a7; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.993073688621446s">
+<g class="grass-anim" style="animation-delay: -0.22821738650084722s">
 <path d="M 592.14 -87.01 L 589.14 -91.01 M 592.14 -87.01 L 594.14 -92.01" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 700.00 -75.00 L 750.00 -50.00 L 700.00 -25.00 L 650.00 -50.00 Z" style="fill:#66bb6a; stroke:none;" />
@@ -385,7 +388,7 @@
 <path d="M 200.00 -275.00 L 250.00 -250.00 L 200.00 -225.00 L 150.00 -250.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 250.00 -250.00 L 300.00 -225.00 L 250.00 -200.00 L 200.00 -225.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 300.00 -225.00 L 350.00 -200.00 L 300.00 -175.00 L 250.00 -200.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.1989192136106395s">
+<g class="grass-anim" style="animation-delay: -0.16208797313223489s">
 <path d="M 241.45 -212.49 L 238.45 -216.49 M 241.45 -212.49 L 243.45 -217.49" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 350.00 -200.00 L 400.00 -175.00 L 350.00 -150.00 L 300.00 -175.00 Z" style="fill:#bdc3c7; stroke:none;" />
@@ -399,23 +402,22 @@
 <path d="M 340.00 -155.00 L 350.00 -160.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 380.00 -175.00 L 350.00 -160.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 350.00 -190.00 L 320.00 -175.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
-<circle cx="350" cy="-175" r="4" fill="#9C27B0" stroke="white" stroke-width="1" class="citizen" style="animation-delay: -0.1680200153667193s" />
 <path d="M 400.00 -175.00 L 450.00 -150.00 L 400.00 -125.00 L 350.00 -150.00 Z" style="fill:#a5d6a7; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.2457460198376125s">
+<g class="grass-anim" style="animation-delay: -1.261936619727214s">
 <path d="M 344.24 -163.03 L 341.24 -167.03 M 344.24 -163.03 L 346.24 -168.03" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 450.00 -150.00 L 500.00 -125.00 L 450.00 -100.00 L 400.00 -125.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.6457637314451823s">
+<g class="grass-anim" style="animation-delay: -1.8293230992814933s">
 <path d="M 407.08 -141.45 L 404.08 -145.45 M 407.08 -141.45 L 409.08 -146.45" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 500.00 -125.00 L 550.00 -100.00 L 500.00 -75.00 L 450.00 -100.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -0.1176720287885411s">
+<g class="grass-anim" style="animation-delay: -1.5854412329498624s">
 <circle cx="480.40" cy="-108.31" r="2" fill="#c7ceea" />
 </g>
 <path d="M 550.00 -100.00 L 600.00 -75.00 L 550.00 -50.00 L 500.00 -75.00 Z" style="fill:#66bb6a; stroke:none;" />
 <path d="M 600.00 -75.00 L 650.00 -50.00 L 600.00 -25.00 L 550.00 -50.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 650.00 -50.00 L 700.00 -25.00 L 650.00 0.00 L 600.00 -25.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.4246967844505076s">
+<g class="grass-anim" style="animation-delay: -0.6581767694726444s">
 <path d="M 637.47 -17.61 L 634.47 -21.61 M 637.47 -17.61 L 639.47 -22.61" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 700.00 -25.00 L 750.00 0.00 L 700.00 25.00 L 650.00 0.00 Z" style="fill:#66bb6a; stroke:none;" />
@@ -433,17 +435,17 @@
 <path d="M 880.00 75.00 L 850.00 90.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 850.00 60.00 L 820.00 75.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 900.00 75.00 L 950.00 100.00 L 900.00 125.00 L 850.00 100.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.5348250608825453s">
+<g class="grass-anim" style="animation-delay: -1.4399170138428916s">
 <path d="M 848.22 89.76 L 845.22 85.76 M 848.22 89.76 L 850.22 84.76" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 950.00 100.00 L 1000.00 125.00 L 950.00 150.00 L 900.00 125.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 100.00 -275.00 L 150.00 -250.00 L 100.00 -225.00 L 50.00 -250.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 150.00 -250.00 L 200.00 -225.00 L 150.00 -200.00 L 100.00 -225.00 Z" style="fill:#a5d6a7; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.639560107046289s">
+<g class="grass-anim" style="animation-delay: -0.1562168515358353s">
 <circle cx="144.30" cy="-232.68" r="2" fill="#e2f0cb" />
 </g>
 <path d="M 200.00 -225.00 L 250.00 -200.00 L 200.00 -175.00 L 150.00 -200.00 Z" style="fill:#a5d6a7; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -0.4345560392529877s">
+<g class="grass-anim" style="animation-delay: -0.816756668715084s">
 <circle cx="205.96" cy="-200.76" r="2" fill="#c7ceea" />
 </g>
 <path d="M 250.00 -200.00 L 300.00 -175.00 L 250.00 -150.00 L 200.00 -175.00 Z" style="fill:#81c784; stroke:none;" />
@@ -481,16 +483,16 @@
 <path d="M 850.00 100.00 L 900.00 125.00 L 850.00 150.00 L 800.00 125.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 900.00 125.00 L 950.00 150.00 L 900.00 175.00 L 850.00 150.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 50.00 -250.00 L 100.00 -225.00 L 50.00 -200.00 L 0.00 -225.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.9953824290951894s">
+<g class="grass-anim" style="animation-delay: -0.8592491566017144s">
 <path d="M 46.24 -233.44 L 43.24 -237.44 M 46.24 -233.44 L 48.24 -238.44" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 100.00 -225.00 L 150.00 -200.00 L 100.00 -175.00 L 50.00 -200.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 150.00 -200.00 L 200.00 -175.00 L 150.00 -150.00 L 100.00 -175.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -0.656218896966847s">
+<g class="grass-anim" style="animation-delay: -0.8775514776391056s">
 <path d="M 107.63 -192.38 L 104.63 -196.38 M 107.63 -192.38 L 109.63 -197.38" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 200.00 -175.00 L 250.00 -150.00 L 200.00 -125.00 L 150.00 -150.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.5963073678060558s">
+<g class="grass-anim" style="animation-delay: -0.24258160837279918s">
 <path d="M 171.41 -161.42 L 168.41 -165.42 M 171.41 -161.42 L 173.41 -166.42" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 250.00 -150.00 L 300.00 -125.00 L 250.00 -100.00 L 200.00 -125.00 Z" style="fill:#bdc3c7; stroke:none;" />
@@ -505,18 +507,18 @@
 <path d="M 280.00 -125.00 L 250.00 -110.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 250.00 -140.00 L 220.00 -125.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 300.00 -125.00 L 350.00 -100.00 L 300.00 -75.00 L 250.00 -100.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -0.7626394072742708s">
+<g class="grass-anim" style="animation-delay: -1.2092773346236516s">
 <path d="M 261.94 -110.47 L 258.94 -114.47 M 261.94 -110.47 L 263.94 -115.47" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 350.00 -100.00 L 400.00 -75.00 L 350.00 -50.00 L 300.00 -75.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 400.00 -75.00 L 450.00 -50.00 L 400.00 -25.00 L 350.00 -50.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -0.8218059850477464s">
+<g class="grass-anim" style="animation-delay: -1.5605340261939737s">
 <path d="M 349.96 -70.46 L 346.96 -74.46 M 349.96 -70.46 L 351.96 -75.46" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 450.00 -50.00 L 500.00 -25.00 L 450.00 0.00 L 400.00 -25.00 Z" style="fill:#66bb6a; stroke:none;" />
 <path d="M 500.00 -25.00 L 550.00 0.00 L 500.00 25.00 L 450.00 0.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 550.00 0.00 L 600.00 25.00 L 550.00 50.00 L 500.00 25.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -0.5636418466882205s">
+<g class="grass-anim" style="animation-delay: -1.0241131469374594s">
 <path d="M 557.43 22.04 L 554.43 18.04 M 557.43 22.04 L 559.43 17.04" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 600.00 25.00 L 650.00 50.00 L 600.00 75.00 L 550.00 50.00 Z" style="fill:#81c784; stroke:none;" />
@@ -533,15 +535,14 @@
 <path d="M 740.00 145.00 L 750.00 140.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 780.00 125.00 L 750.00 140.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 750.00 110.00 L 720.00 125.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
-<circle cx="750" cy="125" r="4" fill="#2196F3" stroke="white" stroke-width="1" class="citizen" style="animation-delay: -0.6923877272224674s" />
 <path d="M 800.00 125.00 L 850.00 150.00 L 800.00 175.00 L 750.00 150.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 850.00 150.00 L 900.00 175.00 L 850.00 200.00 L 800.00 175.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 0.00 -225.00 L 50.00 -200.00 L 0.00 -175.00 L -50.00 -200.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -0.5187140625816062s">
+<g class="grass-anim" style="animation-delay: -0.9776885894392358s">
 <path d="M -57.01 -225.98 L -60.01 -229.98 M -57.01 -225.98 L -55.01 -230.98" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 50.00 -200.00 L 100.00 -175.00 L 50.00 -150.00 L 0.00 -175.00 Z" style="fill:#a5d6a7; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -0.2959951970486925s">
+<g class="grass-anim" style="animation-delay: -0.04346757327798656s">
 <path d="M 5.84 -185.33 L 2.84 -189.33 M 5.84 -185.33 L 7.84 -190.33" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 100.00 -175.00 L 150.00 -150.00 L 100.00 -125.00 L 50.00 -150.00 Z" style="fill:#81c784; stroke:none;" />
@@ -558,22 +559,22 @@
 <path d="M 230.00 -100.00 L 200.00 -85.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 200.00 -115.00 L 170.00 -100.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 250.00 -100.00 L 300.00 -75.00 L 250.00 -50.00 L 200.00 -75.00 Z" style="fill:#a5d6a7; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.9538011518049734s">
+<g class="grass-anim" style="animation-delay: -1.5378506761051485s">
 <path d="M 231.91 -70.42 L 228.91 -74.42 M 231.91 -70.42 L 233.91 -75.42" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 300.00 -75.00 L 350.00 -50.00 L 300.00 -25.00 L 250.00 -50.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.5556114368758265s">
+<g class="grass-anim" style="animation-delay: -0.11806302196320173s">
 <path d="M 300.64 -55.58 L 297.64 -59.58 M 300.64 -55.58 L 302.64 -60.58" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 350.00 -50.00 L 400.00 -25.00 L 350.00 0.00 L 300.00 -25.00 Z" style="fill:#a5d6a7; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -0.8281012372727816s">
+<g class="grass-anim" style="animation-delay: -1.903739504898617s">
 <path d="M 333.01 -18.69 L 330.01 -22.69 M 333.01 -18.69 L 335.01 -23.69" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 400.00 -25.00 L 450.00 0.00 L 400.00 25.00 L 350.00 0.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 450.00 0.00 L 500.00 25.00 L 450.00 50.00 L 400.00 25.00 Z" style="fill:#66bb6a; stroke:none;" />
 <path d="M 500.00 25.00 L 550.00 50.00 L 500.00 75.00 L 450.00 50.00 Z" style="fill:#66bb6a; stroke:none;" />
 <path d="M 550.00 50.00 L 600.00 75.00 L 550.00 100.00 L 500.00 75.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.1448603239109785s">
+<g class="grass-anim" style="animation-delay: -0.5925754824745733s">
 <path d="M 495.04 53.28 L 492.04 49.28 M 495.04 53.28 L 497.04 48.28" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 600.00 75.00 L 650.00 100.00 L 600.00 125.00 L 550.00 100.00 Z" style="fill:#81c784; stroke:none;" />
@@ -594,7 +595,7 @@
 <path d="M -50.00 -200.00 L 0.00 -175.00 L -50.00 -150.00 L -100.00 -175.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 0.00 -175.00 L 50.00 -150.00 L 0.00 -125.00 L -50.00 -150.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 50.00 -150.00 L 100.00 -125.00 L 50.00 -100.00 L 0.00 -125.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.7028368302703982s">
+<g class="grass-anim" style="animation-delay: -0.9366225551924403s">
 <path d="M 2.37 -136.41 L -0.63 -140.41 M 2.37 -136.41 L 4.37 -141.41" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 100.00 -125.00 L 150.00 -100.00 L 100.00 -75.00 L 50.00 -100.00 Z" style="fill:#81c784; stroke:none;" />
@@ -613,7 +614,7 @@
 <path d="M 250.00 -50.00 L 300.00 -25.00 L 250.00 0.00 L 200.00 -25.00 Z" style="fill:#66bb6a; stroke:none;" />
 <path d="M 300.00 -25.00 L 350.00 0.00 L 300.00 25.00 L 250.00 0.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 350.00 0.00 L 400.00 25.00 L 350.00 50.00 L 300.00 25.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -0.32306545386979657s">
+<g class="grass-anim" style="animation-delay: -1.5086749743170755s">
 <path d="M 310.92 -0.44 L 307.92 -4.44 M 310.92 -0.44 L 312.92 -5.44" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 400.00 25.00 L 450.00 50.00 L 400.00 75.00 L 350.00 50.00 Z" style="fill:#81c784; stroke:none;" />
@@ -621,7 +622,7 @@
 <path d="M 500.00 75.00 L 550.00 100.00 L 500.00 125.00 L 450.00 100.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 550.00 100.00 L 600.00 125.00 L 550.00 150.00 L 500.00 125.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 600.00 125.00 L 650.00 150.00 L 600.00 175.00 L 550.00 150.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -0.4072488140224224s">
+<g class="grass-anim" style="animation-delay: -1.7581121738390917s">
 <path d="M 585.53 153.12 L 582.53 149.12 M 585.53 153.12 L 587.53 148.12" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 650.00 150.00 L 700.00 175.00 L 650.00 200.00 L 600.00 175.00 Z" style="fill:#bdc3c7; stroke:none;" />
@@ -699,20 +700,20 @@
 <path d="M 190.00 -20.00 L 200.00 -15.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 160.00 -5.00 L 170.00 0.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 250.00 0.00 L 300.00 25.00 L 250.00 50.00 L 200.00 25.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.297119122101261s">
+<g class="grass-anim" style="animation-delay: -0.9735706563608932s">
 <path d="M 269.79 18.45 L 266.79 14.45 M 269.79 18.45 L 271.79 13.45" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 300.00 25.00 L 350.00 50.00 L 300.00 75.00 L 250.00 50.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -0.9166232748398433s">
+<g class="grass-anim" style="animation-delay: -0.014484299567912196s">
 </g>
 <path d="M 350.00 50.00 L 400.00 75.00 L 350.00 100.00 L 300.00 75.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 400.00 75.00 L 450.00 100.00 L 400.00 125.00 L 350.00 100.00 Z" style="fill:#a5d6a7; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.6626842092033653s">
+<g class="grass-anim" style="animation-delay: -0.7853887320990376s">
 <path d="M 377.49 86.16 L 374.49 82.16 M 377.49 86.16 L 379.49 81.16" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 450.00 100.00 L 500.00 125.00 L 450.00 150.00 L 400.00 125.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 500.00 125.00 L 550.00 150.00 L 500.00 175.00 L 450.00 150.00 Z" style="fill:#a5d6a7; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.6958569219013007s">
+<g class="grass-anim" style="animation-delay: -0.5111742356788769s">
 <path d="M 460.70 139.81 L 457.70 135.81 M 460.70 139.81 L 462.70 134.81" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 550.00 150.00 L 600.00 175.00 L 550.00 200.00 L 500.00 175.00 Z" style="fill:#81c784; stroke:none;" />
@@ -730,7 +731,7 @@
 <path d="M 650.00 200.00 L 700.00 225.00 L 650.00 250.00 L 600.00 225.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 700.00 225.00 L 750.00 250.00 L 700.00 275.00 L 650.00 250.00 Z" style="fill:#66bb6a; stroke:none;" />
 <path d="M -150.00 -150.00 L -100.00 -125.00 L -150.00 -100.00 L -200.00 -125.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.4663477205501163s">
+<g class="grass-anim" style="animation-delay: -1.7390155780372423s">
 <path d="M -166.45 -118.50 L -169.45 -122.50 M -166.45 -118.50 L -164.45 -123.50" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M -100.00 -125.00 L -50.00 -100.00 L -100.00 -75.00 L -150.00 -100.00 Z" style="fill:#81c784; stroke:none;" />
@@ -747,11 +748,11 @@
 <path d="M -50.00 -90.00 L -80.00 -75.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 0.00 -75.00 L 50.00 -50.00 L 0.00 -25.00 L -50.00 -50.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 50.00 -50.00 L 100.00 -25.00 L 50.00 0.00 L 0.00 -25.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.28936305837806s">
+<g class="grass-anim" style="animation-delay: -0.9603116906924596s">
 <path d="M 25.96 -36.70 L 22.96 -40.70 M 25.96 -36.70 L 27.96 -41.70" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 100.00 -25.00 L 150.00 0.00 L 100.00 25.00 L 50.00 0.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -0.38484386439891827s">
+<g class="grass-anim" style="animation-delay: -1.541842506835112s">
 <path d="M 53.44 -20.17 L 50.44 -24.17 M 53.44 -20.17 L 55.44 -25.17" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 150.00 0.00 L 200.00 25.00 L 150.00 50.00 L 100.00 25.00 Z" style="fill:#bdc3c7; stroke:none;" />
@@ -765,7 +766,6 @@
 <path d="M 140.00 45.00 L 150.00 40.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 180.00 25.00 L 150.00 40.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 150.00 10.00 L 120.00 25.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
-<circle cx="150" cy="25" r="4" fill="#2196F3" stroke="white" stroke-width="1" class="citizen" style="animation-delay: -0.023640685262982464s" />
 <path d="M 200.00 25.00 L 250.00 50.00 L 200.00 75.00 L 150.00 50.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 250.00 50.00 L 300.00 75.00 L 250.00 100.00 L 200.00 75.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 300.00 75.00 L 350.00 100.00 L 300.00 125.00 L 250.00 100.00 Z" style="fill:#81c784; stroke:none;" />
@@ -773,7 +773,7 @@
 <path d="M 400.00 125.00 L 450.00 150.00 L 400.00 175.00 L 350.00 150.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 450.00 150.00 L 500.00 175.00 L 450.00 200.00 L 400.00 175.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 500.00 175.00 L 550.00 200.00 L 500.00 225.00 L 450.00 200.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -0.9569673790018225s">
+<g class="grass-anim" style="animation-delay: -0.7513140211394469s">
 <path d="M 511.17 205.04 L 508.17 201.04 M 511.17 205.04 L 513.17 200.04" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 550.00 200.00 L 600.00 225.00 L 550.00 250.00 L 500.00 225.00 Z" style="fill:#bdc3c7; stroke:none;" />
@@ -788,11 +788,11 @@
 <path d="M 580.00 225.00 L 550.00 240.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 550.00 210.00 L 520.00 225.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 600.00 225.00 L 650.00 250.00 L 600.00 275.00 L 550.00 250.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -0.9606947472988541s">
+<g class="grass-anim" style="animation-delay: -1.2611260774881123s">
 <path d="M 582.08 250.61 L 579.08 246.61 M 582.08 250.61 L 584.08 245.61" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 650.00 250.00 L 700.00 275.00 L 650.00 300.00 L 600.00 275.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.0582805120422822s">
+<g class="grass-anim" style="animation-delay: -0.5440013438595432s">
 <path d="M 648.58 283.46 L 645.58 279.46 M 648.58 283.46 L 650.58 278.46" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M -200.00 -125.00 L -150.00 -100.00 L -200.00 -75.00 L -250.00 -100.00 Z" style="fill:#66bb6a; stroke:none;" />
@@ -808,11 +808,10 @@
 <path d="M -110.00 -30.00 L -100.00 -35.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M -70.00 -50.00 L -100.00 -35.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M -100.00 -65.00 L -130.00 -50.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
-<circle cx="-100" cy="-50" r="4" fill="#9C27B0" stroke="white" stroke-width="1" class="citizen" style="animation-delay: -0.22481693034962325s" />
 <path d="M -50.00 -50.00 L 0.00 -25.00 L -50.00 0.00 L -100.00 -25.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 0.00 -25.00 L 50.00 0.00 L 0.00 25.00 L -50.00 0.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 50.00 0.00 L 100.00 25.00 L 50.00 50.00 L 0.00 25.00 Z" style="fill:#a5d6a7; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -0.5878763807917387s">
+<g class="grass-anim" style="animation-delay: -0.888234152475845s">
 <path d="M 43.53 20.33 L 40.53 16.33 M 43.53 20.33 L 45.53 15.33" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 100.00 25.00 L 150.00 50.00 L 100.00 75.00 L 50.00 50.00 Z" style="fill:#bdc3c7; stroke:none;" />
@@ -907,7 +906,6 @@
 <path d="M 460.00 245.00 L 450.00 240.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 440.00 205.00 L 450.00 210.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 410.00 220.00 L 420.00 225.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
-<circle cx="450" cy="225" r="4" fill="#E91E63" stroke="white" stroke-width="1" class="citizen" style="animation-delay: -0.07474709136571822s" />
 <path d="M 500.00 225.00 L 550.00 250.00 L 500.00 275.00 L 450.00 250.00 Z" style="fill:#bdc3c7; stroke:none;" />
 <path d="M 500.00 235.00 L 530.00 250.00 L 500.00 265.00 L 470.00 250.00" style="fill:#34495e; stroke:none;" />
 <path d="M 500.00 235.00 L 530.00 250.00 L 540.00 245.00 L 510.00 230.00" style="fill:#34495e; stroke:none;" />
@@ -920,12 +918,12 @@
 <path d="M 490.00 230.00 L 500.00 235.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 460.00 245.00 L 470.00 250.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 550.00 250.00 L 600.00 275.00 L 550.00 300.00 L 500.00 275.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -0.06884686632744064s">
+<g class="grass-anim" style="animation-delay: -0.7727457489422696s">
 <path d="M 529.49 255.29 L 526.49 251.29 M 529.49 255.29 L 531.49 250.29" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 600.00 275.00 L 650.00 300.00 L 600.00 325.00 L 550.00 300.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M -250.00 -100.00 L -200.00 -75.00 L -250.00 -50.00 L -300.00 -75.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -0.13395254111780863s">
+<g class="grass-anim" style="animation-delay: -1.4474156646038634s">
 <path d="M -243.14 -70.15 L -246.14 -74.15 M -243.14 -70.15 L -241.14 -75.15" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M -200.00 -75.00 L -150.00 -50.00 L -200.00 -25.00 L -250.00 -50.00 Z" style="fill:#66bb6a; stroke:none;" />
@@ -943,7 +941,7 @@
 <path d="M -100.00 -25.00 L -50.00 0.00 L -100.00 25.00 L -150.00 0.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M -50.00 0.00 L 0.00 25.00 L -50.00 50.00 L -100.00 25.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 0.00 25.00 L 50.00 50.00 L 0.00 75.00 L -50.00 50.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.3597177328792083s">
+<g class="grass-anim" style="animation-delay: -0.38157793268901186s">
 <path d="M -50.94 29.16 L -53.94 25.16 M -50.94 29.16 L -48.94 24.16" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 50.00 50.00 L 100.00 75.00 L 50.00 100.00 L 0.00 75.00 Z" style="fill:#bdc3c7; stroke:none;" />
@@ -957,14 +955,15 @@
 <path d="M 40.00 95.00 L 50.00 90.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 80.00 75.00 L 50.00 90.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 50.00 60.00 L 20.00 75.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
+<circle cx="50" cy="75" r="4" fill="#FF9800" stroke="white" stroke-width="1" class="citizen" style="animation-delay: -0.22083444627729087s" />
 <path d="M 100.00 75.00 L 150.00 100.00 L 100.00 125.00 L 50.00 100.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 150.00 100.00 L 200.00 125.00 L 150.00 150.00 L 100.00 125.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 200.00 125.00 L 250.00 150.00 L 200.00 175.00 L 150.00 150.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.5540847698729023s">
+<g class="grass-anim" style="animation-delay: -0.5595757571272686s">
 <path d="M 146.02 131.54 L 143.02 127.54 M 146.02 131.54 L 148.02 126.54" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 250.00 150.00 L 300.00 175.00 L 250.00 200.00 L 200.00 175.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -0.6713867304469177s">
+<g class="grass-anim" style="animation-delay: -1.9628096856970396s">
 <path d="M 213.99 161.04 L 210.99 157.04 M 213.99 161.04 L 215.99 156.04" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 300.00 175.00 L 350.00 200.00 L 300.00 225.00 L 250.00 200.00 Z" style="fill:#81c784; stroke:none;" />
@@ -1019,6 +1018,7 @@
 <path d="M -40.00 95.00 L -50.00 90.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M -60.00 55.00 L -50.00 60.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M -90.00 70.00 L -80.00 75.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
+<circle cx="-50" cy="75" r="4" fill="#9C27B0" stroke="white" stroke-width="1" class="citizen" style="animation-delay: -0.4410891681095652s" />
 <path d="M 0.00 75.00 L 50.00 100.00 L 0.00 125.00 L -50.00 100.00 Z" style="fill:#bdc3c7; stroke:none;" />
 <path d="M 0.00 85.00 L 30.00 100.00 L 0.00 115.00 L -30.00 100.00" style="fill:#34495e; stroke:none;" />
 <path d="M 0.00 85.00 L 30.00 100.00 L 40.00 95.00 L 10.00 80.00" style="fill:#34495e; stroke:none;" />
@@ -1032,7 +1032,7 @@
 <path d="M -40.00 95.00 L -30.00 100.00" style="fill:none; stroke:#ffffff; stroke-width:3; opacity:0.8;" />
 <path d="M 50.00 100.00 L 100.00 125.00 L 50.00 150.00 L 0.00 125.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 100.00 125.00 L 150.00 150.00 L 100.00 175.00 L 50.00 150.00 Z" style="fill:#a5d6a7; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.6117015082418527s">
+<g class="grass-anim" style="animation-delay: -0.5157882462856014s">
 <path d="M 91.12 153.24 L 88.12 149.24 M 91.12 153.24 L 93.12 148.24" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 150.00 150.00 L 200.00 175.00 L 150.00 200.00 L 100.00 175.00 Z" style="fill:#81c784; stroke:none;" />
@@ -1042,42 +1042,42 @@
 <path d="M 350.00 250.00 L 400.00 275.00 L 350.00 300.00 L 300.00 275.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 400.00 275.00 L 450.00 300.00 L 400.00 325.00 L 350.00 300.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 450.00 300.00 L 500.00 325.00 L 450.00 350.00 L 400.00 325.00 Z" style="fill:#a5d6a7; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.4287306885436268s">
+<g class="grass-anim" style="animation-delay: -1.3105059592372297s">
 <path d="M 405.70 303.71 L 402.70 299.71 M 405.70 303.71 L 407.70 298.71" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 500.00 325.00 L 550.00 350.00 L 500.00 375.00 L 450.00 350.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -0.05426084843431056s">
+<g class="grass-anim" style="animation-delay: -0.593072099910529s">
 <path d="M 442.98 336.10 L 439.98 332.10 M 442.98 336.10 L 444.98 331.10" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M -350.00 -50.00 L -300.00 -25.00 L -350.00 0.00 L -400.00 -25.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M -300.00 -25.00 L -250.00 0.00 L -300.00 25.00 L -350.00 0.00 Z" style="fill:#66bb6a; stroke:none;" />
 <path d="M -250.00 0.00 L -200.00 25.00 L -250.00 50.00 L -300.00 25.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M -200.00 25.00 L -150.00 50.00 L -200.00 75.00 L -250.00 50.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.2570502915987087s">
+<g class="grass-anim" style="animation-delay: -1.4163905019936331s">
 <circle cx="-180.47" cy="47.19" r="2" fill="#b5ead7" />
 </g>
 <path d="M -150.00 50.00 L -100.00 75.00 L -150.00 100.00 L -200.00 75.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M -100.00 75.00 L -50.00 100.00 L -100.00 125.00 L -150.00 100.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M -50.00 100.00 L 0.00 125.00 L -50.00 150.00 L -100.00 125.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 0.00 125.00 L 50.00 150.00 L 0.00 175.00 L -50.00 150.00 Z" style="fill:#a5d6a7; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.994531714683053s">
+<g class="grass-anim" style="animation-delay: -1.1347130384373298s">
 <path d="M -51.32 127.54 L -54.32 123.54 M -51.32 127.54 L -49.32 122.54" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 50.00 150.00 L 100.00 175.00 L 50.00 200.00 L 0.00 175.00 Z" style="fill:#66bb6a; stroke:none;" />
 <path d="M 100.00 175.00 L 150.00 200.00 L 100.00 225.00 L 50.00 200.00 Z" style="fill:#a5d6a7; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.727577569467861s">
+<g class="grass-anim" style="animation-delay: -1.6743221153818064s">
 <path d="M 77.46 179.41 L 74.46 175.41 M 77.46 179.41 L 79.46 174.41" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 150.00 200.00 L 200.00 225.00 L 150.00 250.00 L 100.00 225.00 Z" style="fill:#66bb6a; stroke:none;" />
 <path d="M 200.00 225.00 L 250.00 250.00 L 200.00 275.00 L 150.00 250.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 250.00 250.00 L 300.00 275.00 L 250.00 300.00 L 200.00 275.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -0.8630097096683835s">
+<g class="grass-anim" style="animation-delay: -1.0349121992529824s">
 <path d="M 221.02 250.39 L 218.02 246.39 M 221.02 250.39 L 223.02 245.39" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 300.00 275.00 L 350.00 300.00 L 300.00 325.00 L 250.00 300.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 350.00 300.00 L 400.00 325.00 L 350.00 350.00 L 300.00 325.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 400.00 325.00 L 450.00 350.00 L 400.00 375.00 L 350.00 350.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.366251519639277s">
+<g class="grass-anim" style="animation-delay: -1.8885382500867833s">
 <path d="M 404.42 357.09 L 401.42 353.09 M 404.42 357.09 L 406.42 352.09" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 450.00 350.00 L 500.00 375.00 L 450.00 400.00 L 400.00 375.00 Z" style="fill:#66bb6a; stroke:none;" />
@@ -1087,7 +1087,7 @@
 <path d="M -250.00 50.00 L -200.00 75.00 L -250.00 100.00 L -300.00 75.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M -200.00 75.00 L -150.00 100.00 L -200.00 125.00 L -250.00 100.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M -150.00 100.00 L -100.00 125.00 L -150.00 150.00 L -200.00 125.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.8502102310508013s">
+<g class="grass-anim" style="animation-delay: -1.353520356597112s">
 <path d="M -189.67 107.18 L -192.67 103.18 M -189.67 107.18 L -187.67 102.18" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M -100.00 125.00 L -50.00 150.00 L -100.00 175.00 L -150.00 150.00 Z" style="fill:#81c784; stroke:none;" />
@@ -1095,7 +1095,7 @@
 <path d="M 0.00 175.00 L 50.00 200.00 L 0.00 225.00 L -50.00 200.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 50.00 200.00 L 100.00 225.00 L 50.00 250.00 L 0.00 225.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 100.00 225.00 L 150.00 250.00 L 100.00 275.00 L 50.00 250.00 Z" style="fill:#a5d6a7; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -0.9780779471745604s">
+<g class="grass-anim" style="animation-delay: -1.3340654282117312s">
 <circle cx="82.12" cy="254.25" r="2" fill="#e2f0cb" />
 </g>
 <path d="M 150.00 250.00 L 200.00 275.00 L 150.00 300.00 L 100.00 275.00 Z" style="fill:#81c784; stroke:none;" />
@@ -1103,7 +1103,7 @@
 <path d="M 250.00 300.00 L 300.00 325.00 L 250.00 350.00 L 200.00 325.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 300.00 325.00 L 350.00 350.00 L 300.00 375.00 L 250.00 350.00 Z" style="fill:#81c784; stroke:none;" />
 <path d="M 350.00 350.00 L 400.00 375.00 L 350.00 400.00 L 300.00 375.00 Z" style="fill:#66bb6a; stroke:none;" />
-<g class="grass-anim" style="animation-delay: -1.7733732342010762s">
+<g class="grass-anim" style="animation-delay: -1.263146555212344s">
 <path d="M 323.49 355.90 L 320.49 351.90 M 323.49 355.90 L 325.49 350.90" style="fill:none; stroke:#76c47c; stroke-width:1.5;" />
 </g>
 <path d="M 400.00 375.00 L 450.00 400.00 L 400.00 425.00 L 350.00 400.00 Z" style="fill:#66bb6a; stroke:none;" />
@@ -1297,9 +1297,9 @@
 <path d="M 11.00 -85.00 L 15.00 -83.00 L 19.00 -85.00 L 15.00 -87.00" style="fill:#2d3436; stroke:none;" />
 <path d="M 11.00 -85.00 L 15.00 -83.00 L 19.00 -85.00 L 15.00 -87.00 Z" style="fill:none; stroke:#f58469; stroke-width:1;" />
 <g class="smoke-stack">
-<circle cx="0" cy="-65" r="4.37468559732339" fill="rgba(255,255,255,0.4)" class="smoke" style="animation: smokeRise 4s ease-out infinite; animation-delay: -0.0202544757109806s;" />
-<circle cx="0" cy="-65" r="3.070636048299115" fill="rgba(255,255,255,0.4)" class="smoke" style="animation: smokeRise 4s ease-out infinite; animation-delay: -1.988178145009285s;" />
-<circle cx="0" cy="-65" r="3.2002587130961397" fill="rgba(255,255,255,0.4)" class="smoke" style="animation: smokeRise 4s ease-out infinite; animation-delay: -2.946892747423482s;" />
+<circle cx="0" cy="-65" r="4.9288750668561185" fill="rgba(255,255,255,0.4)" class="smoke" style="animation: smokeRise 4s ease-out infinite; animation-delay: -0.7473461171599065s;" />
+<circle cx="0" cy="-65" r="4.67395178602041" fill="rgba(255,255,255,0.4)" class="smoke" style="animation: smokeRise 4s ease-out infinite; animation-delay: -1.6480934398722253s;" />
+<circle cx="0" cy="-65" r="4.523672160506779" fill="rgba(255,255,255,0.4)" class="smoke" style="animation: smokeRise 4s ease-out infinite; animation-delay: -0.4870235147984894s;" />
 </g>
 <ellipse cx="300.00" cy="0.00" rx="40" ry="20" fill="rgba(0, 0, 0, 0.2)" />
 <ellipse cx="300.00" cy="0.00" rx="24" ry="14.4" fill="rgba(0,0,0,0.15)" />
@@ -1424,92 +1424,94 @@
 <ellipse cx="314.00" cy="-93.00" rx="3" ry="1.5" fill="#e67e22" />
 <ellipse cx="314.00" cy="-93.00" rx="1.5" ry="0.7" fill="#d35400" />
 <g class="smoke-stack">
-<circle cx="300" cy="-65" r="4.290659596202765" fill="rgba(255,255,255,0.4)" class="smoke" style="animation: smokeRise 4s ease-out infinite; animation-delay: -0.09865555178059204s;" />
-<circle cx="300" cy="-65" r="4.0464333667391" fill="rgba(255,255,255,0.4)" class="smoke" style="animation: smokeRise 4s ease-out infinite; animation-delay: -1.5835118887450166s;" />
-<circle cx="300" cy="-65" r="3.3178864095548155" fill="rgba(255,255,255,0.4)" class="smoke" style="animation: smokeRise 4s ease-out infinite; animation-delay: -1.6930538080517317s;" />
+<circle cx="300" cy="-65" r="3.161176350637619" fill="rgba(255,255,255,0.4)" class="smoke" style="animation: smokeRise 4s ease-out infinite; animation-delay: -0.8803133837697741s;" />
+<circle cx="300" cy="-65" r="4.695934021896954" fill="rgba(255,255,255,0.4)" class="smoke" style="animation: smokeRise 4s ease-out infinite; animation-delay: -0.2780954651802543s;" />
+<circle cx="300" cy="-65" r="3.519993848027511" fill="rgba(255,255,255,0.4)" class="smoke" style="animation: smokeRise 4s ease-out infinite; animation-delay: -2.59290936393061s;" />
 </g>
 <g class="birds" opacity="0.6">
-<path d="M 305.64540363969843 -310.8106382800877 L 310.64540363969843 -308.8106382800877 L 315.64540363969843 -310.8106382800877" fill="none" stroke="#333" stroke-width="1.5" class="bird" style="animation-duration: 22.283388622522047s; animation-delay:-17.64112312265017s;" />
-<path d="M 216.45106467331107 -428.3643305458578 L 221.45106467331107 -426.3643305458578 L 226.45106467331107 -428.3643305458578" fill="none" stroke="#333" stroke-width="1.5" class="bird" style="animation-duration: 20.296371984095813s; animation-delay:-5.013921090745859s;" />
-<path d="M 79.91476194241716 -224.9584303153169 L 84.91476194241716 -222.9584303153169 L 89.91476194241716 -224.9584303153169" fill="none" stroke="#333" stroke-width="1.5" class="bird" style="animation-duration: 20.890066316466758s; animation-delay:-12.248512825454721s;" />
-<path d="M 136.1750851786747 -411.1658062995844 L 141.1750851786747 -409.1658062995844 L 146.1750851786747 -411.1658062995844" fill="none" stroke="#333" stroke-width="1.5" class="bird" style="animation-duration: 15.541297894800232s; animation-delay:-10.550894808244387s;" />
-<path d="M -147.7863409365438 -179.32941869332666 L -142.7863409365438 -177.32941869332666 L -137.7863409365438 -179.32941869332666" fill="none" stroke="#333" stroke-width="1.5" class="bird" style="animation-duration: 23.63599649157229s; animation-delay:-18.234331666237303s;" />
+<path d="M 76.61702173006836 -388.02539905482513 L 81.61702173006836 -386.02539905482513 L 86.61702173006836 -388.02539905482513" fill="none" stroke="#333" stroke-width="1.5" class="bird" style="animation-duration: 21.56677255618885s; animation-delay:-11.09261086048884s;" />
+<path d="M -114.65510376187908 -424.64454656686286 L -109.65510376187908 -422.64454656686286 L -104.65510376187908 -424.64454656686286" fill="none" stroke="#333" stroke-width="1.5" class="bird" style="animation-duration: 19.942789574728977s; animation-delay:-0.036898478594529216s;" />
+<path d="M 156.88728044328042 -146.71508144664625 L 161.88728044328042 -144.71508144664625 L 166.88728044328042 -146.71508144664625" fill="none" stroke="#333" stroke-width="1.5" class="bird" style="animation-duration: 21.95633583587022s; animation-delay:-3.8638672676057384s;" />
+<path d="M -268.1374938482844 -295.07023777593383 L -263.1374938482844 -293.07023777593383 L -258.1374938482844 -295.07023777593383" fill="none" stroke="#333" stroke-width="1.5" class="bird" style="animation-duration: 16.6200193574115s; animation-delay:-18.240946765773394s;" />
+<path d="M 349.6088414905745 -215.75689322411654 L 354.6088414905745 -213.75689322411654 L 359.6088414905745 -215.75689322411654" fill="none" stroke="#333" stroke-width="1.5" class="bird" style="animation-duration: 15.828178196966253s; animation-delay:-11.863052259948637s;" />
 </g>
 <g class="cloud-base c-fast" filter="url(#cloudBlur)">
-<ellipse cx="485.92" cy="-245.34" rx="72" ry="36" fill="#ffffff" />
-<circle cx="525.54" cy="-265.58" r="39.260259785294444" fill="#ffffff" />
-<circle cx="454.27" cy="-252.42" r="39.74059072238457" fill="#ffffff" />
-<circle cx="498.48" cy="-260.06" r="26.232733238084357" fill="#ffffff" />
-<circle cx="474.46" cy="-260.07" r="47.938061679046214" fill="#ffffff" />
-<circle cx="438.84" cy="-254.34" r="45.08935400992434" fill="#ffffff" />
-<ellipse cx="251.13" cy="-183.96" rx="72" ry="36" fill="#ffffff" />
-<circle cx="225.82" cy="-205.93" r="40.088838125718354" fill="#ffffff" />
-<circle cx="264.20" cy="-196.07" r="35.309582643872005" fill="#ffffff" />
-<circle cx="239.01" cy="-199.94" r="31.644113611602606" fill="#ffffff" />
-<circle cx="274.75" cy="-207.62" r="46.30665296922394" fill="#ffffff" />
-<circle cx="241.56" cy="-190.17" r="41.08452824435182" fill="#ffffff" />
-<circle cx="212.06" cy="-186.25" r="31.620834253507645" fill="#ffffff" />
-<ellipse cx="227.59" cy="-139.43" rx="72" ry="36" fill="#ffffff" />
-<circle cx="190.10" cy="-163.33" r="45.61288542535912" fill="#ffffff" />
-<circle cx="243.27" cy="-148.59" r="27.92490611624013" fill="#ffffff" />
-<circle cx="212.24" cy="-155.42" r="40.82628447962438" fill="#ffffff" />
-<circle cx="210.52" cy="-152.02" r="39.39941185265287" fill="#ffffff" />
-<circle cx="211.19" cy="-141.02" r="24.15381926553819" fill="#ffffff" />
-<circle cx="195.25" cy="-156.85" r="47.900698375974834" fill="#ffffff" />
-<ellipse cx="894.23" cy="-48.76" rx="72" ry="36" fill="#ffffff" />
-<circle cx="895.01" cy="-60.72" r="44.32536464952727" fill="#ffffff" />
-<circle cx="925.84" cy="-72.12" r="37.37352951024348" fill="#ffffff" />
-<circle cx="927.33" cy="-63.90" r="32.14419883598516" fill="#ffffff" />
-<circle cx="853.67" cy="-57.75" r="36.171066843723956" fill="#ffffff" />
-<circle cx="908.21" cy="-62.99" r="47.99669608347903" fill="#ffffff" />
-<circle cx="866.25" cy="-48.90" r="47.06823417266359" fill="#ffffff" />
+<ellipse cx="698.39" cy="-14.22" rx="72" ry="36" fill="#ffffff" />
+<circle cx="705.12" cy="-22.66" r="43.493659884779966" fill="#ffffff" />
+<circle cx="722.56" cy="-22.75" r="38.00648957541218" fill="#ffffff" />
+<circle cx="686.07" cy="-30.40" r="27.836491995034" fill="#ffffff" />
+<circle cx="710.77" cy="-27.08" r="36.35449026603312" fill="#ffffff" />
+<circle cx="730.32" cy="-26.75" r="29.61246751948736" fill="#ffffff" />
+<ellipse cx="509.19" cy="-361.41" rx="72" ry="36" fill="#ffffff" />
+<circle cx="542.99" cy="-380.64" r="47.67679904894823" fill="#ffffff" />
+<circle cx="488.80" cy="-385.26" r="28.820015378461992" fill="#ffffff" />
+<circle cx="503.70" cy="-380.49" r="44.36530383067624" fill="#ffffff" />
+<circle cx="513.92" cy="-364.09" r="45.90544660127844" fill="#ffffff" />
+<circle cx="524.58" cy="-365.40" r="25.792005830690304" fill="#ffffff" />
+<circle cx="540.65" cy="-369.62" r="28.14033033957326" fill="#ffffff" />
+<circle cx="463.11" cy="-371.56" r="42.732751798432375" fill="#ffffff" />
+<circle cx="547.35" cy="-368.80" r="29.667865014997137" fill="#ffffff" />
+<ellipse cx="848.51" cy="-314.92" rx="72" ry="36" fill="#ffffff" />
+<circle cx="836.11" cy="-333.89" r="37.69798557483147" fill="#ffffff" />
+<circle cx="872.06" cy="-330.33" r="28.6648030200973" fill="#ffffff" />
+<circle cx="843.16" cy="-334.03" r="30.56174183263704" fill="#ffffff" />
+<circle cx="822.95" cy="-328.57" r="34.07968495309376" fill="#ffffff" />
+<circle cx="892.09" cy="-334.16" r="28.10056951596483" fill="#ffffff" />
+<circle cx="887.32" cy="-332.75" r="45.38857629747777" fill="#ffffff" />
+<ellipse cx="674.91" cy="-442.06" rx="72" ry="36" fill="#ffffff" />
+<circle cx="633.20" cy="-459.10" r="32.43102268275943" fill="#ffffff" />
+<circle cx="710.50" cy="-453.69" r="29.16118931115339" fill="#ffffff" />
+<circle cx="709.70" cy="-453.90" r="40.1691625829375" fill="#ffffff" />
+<circle cx="644.57" cy="-447.01" r="41.04495997975018" fill="#ffffff" />
+<circle cx="691.38" cy="-453.41" r="25.482968724205964" fill="#ffffff" />
+<circle cx="710.17" cy="-443.28" r="31.51702448540186" fill="#ffffff" />
+<circle cx="710.58" cy="-462.23" r="26.28996830621194" fill="#ffffff" />
+<circle cx="721.63" cy="-462.21" r="45.623831620165014" fill="#ffffff" />
 </g>
 <g class="cloud-base c-slow" filter="url(#cloudBlur)" opacity="0.7">
-<ellipse cx="-288.04" cy="-409.78" rx="48" ry="24" fill="#ffffff" />
-<circle cx="-307.34" cy="-420.57" r="24.674854124313647" fill="#ffffff" />
-<circle cx="-264.24" cy="-421.86" r="24.723961669845604" fill="#ffffff" />
-<circle cx="-258.50" cy="-425.21" r="17.1294135092579" fill="#ffffff" />
-<circle cx="-298.52" cy="-423.59" r="23.021942178284554" fill="#ffffff" />
-<circle cx="-279.26" cy="-417.44" r="19.295993945227167" fill="#ffffff" />
-<circle cx="-266.60" cy="-413.06" r="19.87075641129076" fill="#ffffff" />
-<circle cx="-287.78" cy="-425.03" r="27.177166403272224" fill="#ffffff" />
-<circle cx="-316.33" cy="-416.28" r="26.90256733172056" fill="#ffffff" />
-<ellipse cx="444.44" cy="-340.40" rx="48" ry="24" fill="#ffffff" />
-<circle cx="452.48" cy="-346.11" r="20.394901773287202" fill="#ffffff" />
-<circle cx="432.75" cy="-344.69" r="20.57096030734583" fill="#ffffff" />
-<circle cx="463.41" cy="-341.32" r="16.98967210550058" fill="#ffffff" />
-<circle cx="433.76" cy="-341.87" r="27.798063285853562" fill="#ffffff" />
-<circle cx="464.43" cy="-351.44" r="22.391868404296332" fill="#ffffff" />
-<circle cx="444.66" cy="-340.80" r="29.29912314966767" fill="#ffffff" />
-<circle cx="453.74" cy="-344.88" r="29.32895428043406" fill="#ffffff" />
-<ellipse cx="397.40" cy="-194.53" rx="48" ry="24" fill="#ffffff" />
-<circle cx="405.91" cy="-209.01" r="21.405311436301602" fill="#ffffff" />
-<circle cx="395.02" cy="-209.55" r="18.85431924542176" fill="#ffffff" />
-<circle cx="421.62" cy="-202.74" r="23.732620059054057" fill="#ffffff" />
-<circle cx="377.81" cy="-203.42" r="31.86888073110292" fill="#ffffff" />
-<circle cx="397.24" cy="-208.62" r="19.979836213672854" fill="#ffffff" />
-<ellipse cx="292.94" cy="-128.47" rx="48" ry="24" fill="#ffffff" />
-<circle cx="272.61" cy="-137.39" r="30.3288904236455" fill="#ffffff" />
-<circle cx="284.57" cy="-128.95" r="23.435771585866867" fill="#ffffff" />
-<circle cx="275.91" cy="-134.46" r="20.173942276815616" fill="#ffffff" />
-<circle cx="308.52" cy="-129.04" r="20.373745065021783" fill="#ffffff" />
-<circle cx="267.89" cy="-143.81" r="24.477872059306723" fill="#ffffff" />
-<circle cx="303.78" cy="-139.54" r="16.701242317064903" fill="#ffffff" />
-<ellipse cx="142.20" cy="-125.41" rx="48" ry="24" fill="#ffffff" />
-<circle cx="161.32" cy="-130.27" r="24.756807224365517" fill="#ffffff" />
-<circle cx="129.79" cy="-129.24" r="24.947919873337767" fill="#ffffff" />
-<circle cx="128.84" cy="-130.00" r="31.882705704909178" fill="#ffffff" />
-<circle cx="141.38" cy="-138.39" r="19.329401922964" fill="#ffffff" />
-<circle cx="141.61" cy="-129.82" r="21.676017031452876" fill="#ffffff" />
-<ellipse cx="466.42" cy="-436.49" rx="48" ry="24" fill="#ffffff" />
-<circle cx="495.16" cy="-443.16" r="26.403367532700628" fill="#ffffff" />
-<circle cx="470.28" cy="-447.54" r="21.92276500610964" fill="#ffffff" />
-<circle cx="435.55" cy="-445.37" r="27.345588213307714" fill="#ffffff" />
-<circle cx="444.52" cy="-441.89" r="20.532186100606044" fill="#ffffff" />
-<circle cx="462.96" cy="-444.60" r="25.60400883598011" fill="#ffffff" />
-<circle cx="478.30" cy="-441.71" r="24.08319189126217" fill="#ffffff" />
-<circle cx="460.82" cy="-451.33" r="28.553918266239624" fill="#ffffff" />
-<circle cx="483.72" cy="-450.24" r="17.96281050378809" fill="#ffffff" />
+<ellipse cx="916.58" cy="-276.10" rx="48" ry="24" fill="#ffffff" />
+<circle cx="942.27" cy="-278.03" r="31.23624792965768" fill="#ffffff" />
+<circle cx="937.27" cy="-285.02" r="20.932607512262294" fill="#ffffff" />
+<circle cx="946.55" cy="-291.40" r="17.081138474010157" fill="#ffffff" />
+<circle cx="907.10" cy="-290.95" r="30.053826634101974" fill="#ffffff" />
+<circle cx="940.91" cy="-292.01" r="19.534965222371685" fill="#ffffff" />
+<circle cx="931.71" cy="-283.21" r="27.19632054415696" fill="#ffffff" />
+<ellipse cx="1039.15" cy="-223.26" rx="48" ry="24" fill="#ffffff" />
+<circle cx="1048.91" cy="-232.71" r="16.12305794835192" fill="#ffffff" />
+<circle cx="1048.83" cy="-236.90" r="27.24628866152048" fill="#ffffff" />
+<circle cx="1014.58" cy="-236.50" r="18.214639804516647" fill="#ffffff" />
+<circle cx="1068.87" cy="-226.45" r="18.442787386167108" fill="#ffffff" />
+<circle cx="1017.43" cy="-224.22" r="29.850904496355113" fill="#ffffff" />
+<circle cx="1056.01" cy="-232.64" r="30.282936677627387" fill="#ffffff" />
+<circle cx="1030.01" cy="-235.28" r="27.46803441439663" fill="#ffffff" />
+<ellipse cx="-10.49" cy="-171.96" rx="48" ry="24" fill="#ffffff" />
+<circle cx="-40.13" cy="-179.11" r="23.424743553787238" fill="#ffffff" />
+<circle cx="6.85" cy="-186.49" r="29.805448643775676" fill="#ffffff" />
+<circle cx="-18.61" cy="-178.58" r="30.456316342925188" fill="#ffffff" />
+<circle cx="-0.78" cy="-176.21" r="31.938356177079314" fill="#ffffff" />
+<circle cx="15.74" cy="-182.70" r="30.57849300373806" fill="#ffffff" />
+<circle cx="8.01" cy="-186.32" r="19.316026499891418" fill="#ffffff" />
+<ellipse cx="56.97" cy="-425.10" rx="48" ry="24" fill="#ffffff" />
+<circle cx="75.15" cy="-428.63" r="27.19489237804865" fill="#ffffff" />
+<circle cx="53.09" cy="-427.91" r="31.76496385985628" fill="#ffffff" />
+<circle cx="46.08" cy="-440.96" r="22.819593871509934" fill="#ffffff" />
+<circle cx="73.45" cy="-433.95" r="26.996620390406292" fill="#ffffff" />
+<circle cx="27.38" cy="-439.64" r="16.55332963314499" fill="#ffffff" />
+<circle cx="64.20" cy="-432.06" r="17.184879530913932" fill="#ffffff" />
+<ellipse cx="911.88" cy="-213.23" rx="48" ry="24" fill="#ffffff" />
+<circle cx="942.87" cy="-221.25" r="21.111325901598352" fill="#ffffff" />
+<circle cx="899.00" cy="-216.14" r="25.289606163824544" fill="#ffffff" />
+<circle cx="909.53" cy="-225.54" r="26.098123402488554" fill="#ffffff" />
+<circle cx="901.55" cy="-218.49" r="28.08477828011994" fill="#ffffff" />
+<circle cx="917.96" cy="-220.79" r="21.81332446868047" fill="#ffffff" />
+<ellipse cx="1001.85" cy="-68.65" rx="48" ry="24" fill="#ffffff" />
+<circle cx="988.22" cy="-77.50" r="31.267394656471993" fill="#ffffff" />
+<circle cx="1007.64" cy="-73.38" r="21.901738145462446" fill="#ffffff" />
+<circle cx="1019.77" cy="-81.33" r="24.806897152210098" fill="#ffffff" />
+<circle cx="982.13" cy="-84.28" r="30.06136670733937" fill="#ffffff" />
+<circle cx="1033.55" cy="-78.56" r="24.783207082764324" fill="#ffffff" />
+<circle cx="1000.55" cy="-84.27" r="19.73775916576075" fill="#ffffff" />
+<circle cx="998.54" cy="-82.07" r="18.20701116947592" fill="#ffffff" />
 </g></g>
     <!-- Sunlight Overlay -->
     <rect x="-168.42105263157896" y="-260.5263157894737" width="736.8421052631579" height="421.0526315789474" fill="url(#sunlight)" pointer-events="none" style="mix-blend-mode: overlay;" />
@@ -1519,21 +1521,21 @@
     
     <!-- Fireflies (Foreground Particles) -->
     <g class="fireflies" pointer-events="none">
-    <circle cx="791.75" cy="-355.84" r="1.1" fill="#fff59d" class="firefly" style="animation-delay:-4.532726522447803s; animation-duration:5.8783603214245055s;" />
-<circle cx="214.77" cy="-20.79" r="2.2" fill="#fff59d" class="firefly" style="animation-delay:-4.61180223943627s; animation-duration:5.072356167994049s;" />
-<circle cx="188.30" cy="273.97" r="2.4" fill="#fff59d" class="firefly" style="animation-delay:-0.8429459244615112s; animation-duration:6.769081707545694s;" />
-<circle cx="306.94" cy="-403.59" r="2.1" fill="#fff59d" class="firefly" style="animation-delay:-4.8489866228689795s; animation-duration:4.025569780235743s;" />
-<circle cx="661.28" cy="-131.83" r="1.8" fill="#fff59d" class="firefly" style="animation-delay:-4.312921815476026s; animation-duration:4.09764432765523s;" />
-<circle cx="621.28" cy="-5.29" r="1.8" fill="#fff59d" class="firefly" style="animation-delay:-0.7580256484605263s; animation-duration:5.883581191397389s;" />
-<circle cx="609.07" cy="-220.46" r="1.3" fill="#fff59d" class="firefly" style="animation-delay:-4.185869826688422s; animation-duration:6.791164602157147s;" />
-<circle cx="195.42" cy="-140.17" r="1.2" fill="#fff59d" class="firefly" style="animation-delay:-0.6994897741504436s; animation-duration:5.942872518076557s;" />
-<circle cx="471.97" cy="-305.22" r="1.9" fill="#fff59d" class="firefly" style="animation-delay:-2.20357944183182s; animation-duration:5.227542311118053s;" />
-<circle cx="436.00" cy="-191.83" r="2.2" fill="#fff59d" class="firefly" style="animation-delay:-0.9722989186460174s; animation-duration:4.4391523586720885s;" />
-<circle cx="-264.66" cy="8.60" r="1.3" fill="#fff59d" class="firefly" style="animation-delay:-1.1370788107252394s; animation-duration:4.345861909605229s;" />
-<circle cx="485.10" cy="310.26" r="1.6" fill="#fff59d" class="firefly" style="animation-delay:-2.3709088695305205s; animation-duration:4.139469509525956s;" />
-<circle cx="-299.83" cy="-83.49" r="1.5" fill="#fff59d" class="firefly" style="animation-delay:-2.1432364568036966s; animation-duration:4.12168997382579s;" />
-<circle cx="-116.97" cy="-20.79" r="2.2" fill="#fff59d" class="firefly" style="animation-delay:-3.1165370155928507s; animation-duration:6.1195115661502495s;" />
-<circle cx="99.52" cy="138.92" r="1.6" fill="#fff59d" class="firefly" style="animation-delay:-1.5428374603600425s; animation-duration:6.510597262816431s;" />
+    <circle cx="99.07" cy="147.37" r="2.2" fill="#fff59d" class="firefly" style="animation-delay:-3.8673753706373235s; animation-duration:3.5454556266979536s;" />
+<circle cx="571.77" cy="-94.24" r="1.4" fill="#fff59d" class="firefly" style="animation-delay:-2.3978958010664817s; animation-duration:6.293241906606546s;" />
+<circle cx="15.77" cy="-14.35" r="1.9" fill="#fff59d" class="firefly" style="animation-delay:-2.7800680615831475s; animation-duration:3.245095749513246s;" />
+<circle cx="625.25" cy="-390.73" r="1.8" fill="#fff59d" class="firefly" style="animation-delay:-2.751189002549441s; animation-duration:4.356740849089547s;" />
+<circle cx="344.71" cy="-289.21" r="1.2" fill="#fff59d" class="firefly" style="animation-delay:-3.7363743639171956s; animation-duration:4.575778441324857s;" />
+<circle cx="418.16" cy="80.64" r="2.0" fill="#fff59d" class="firefly" style="animation-delay:-0.3804690993769999s; animation-duration:5.1123033717198965s;" />
+<circle cx="296.79" cy="309.96" r="1.5" fill="#fff59d" class="firefly" style="animation-delay:-4.767145165277108s; animation-duration:4.274028462666411s;" />
+<circle cx="323.53" cy="-104.28" r="1.6" fill="#fff59d" class="firefly" style="animation-delay:-0.7415617846953015s; animation-duration:4.818943618324085s;" />
+<circle cx="935.80" cy="116.75" r="1.9" fill="#fff59d" class="firefly" style="animation-delay:-1.183021907205456s; animation-duration:4.276485369485837s;" />
+<circle cx="49.80" cy="-167.31" r="1.8" fill="#fff59d" class="firefly" style="animation-delay:-1.5767074870485465s; animation-duration:6.9955177111046245s;" />
+<circle cx="445.79" cy="234.73" r="1.4" fill="#fff59d" class="firefly" style="animation-delay:-1.4518845665270386s; animation-duration:6.134041953594294s;" />
+<circle cx="-130.18" cy="154.65" r="2.2" fill="#fff59d" class="firefly" style="animation-delay:-0.14777115052981515s; animation-duration:5.613265696590166s;" />
+<circle cx="879.36" cy="-141.02" r="1.4" fill="#fff59d" class="firefly" style="animation-delay:-4.909652935281765s; animation-duration:4.919514602698991s;" />
+<circle cx="192.22" cy="117.75" r="2.3" fill="#fff59d" class="firefly" style="animation-delay:-1.6086898696337604s; animation-duration:5.247090533631167s;" />
+<circle cx="1076.06" cy="-371.41" r="2.1" fill="#fff59d" class="firefly" style="animation-delay:-1.8469665855283435s; animation-duration:3.967118491071979s;" />
 </g>
     
     <!-- Floating Footer Info (No Background) -->
