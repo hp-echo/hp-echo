@@ -13,7 +13,7 @@
         "has_terrace": true,
         "abandoned": false,
         "joined_at": "2026-01-14T08:18:13.596262",
-        "last_seen": "2026-07-14T02:27:58.320724"
+        "last_seen": "2026-07-15T02:25:44.896258"
     },
     {
         "x": 3.0,
@@ -22,11 +22,6 @@
     },
     {
         "x": 5.0,
-        "y": -3.0,
-        "obstacle": "tree"
-    },
-    {
-        "x": 7.0,
         "y": -3.0,
         "color": "#5c22fc",
         "roofStyle": 1,
@@ -39,6 +34,6 @@
         "has_terrace": true,
         "abandoned": false,
         "joined_at": "2026-01-15T03:58:38.196318",
-        "last_seen": "2026-07-14T02:27:58.320724"
+        "last_seen": "2026-07-15T02:25:44.896258"
     }
 ]
